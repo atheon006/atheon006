@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Atheon-Dev ! 👋</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" width="400" alt="Coding/Study GIF" />
+  <img src="https://x.com/i/status/2047589003961008437" width="400" alt="Coding/Study GIF" />
 </p>
 
 <p align="center">
