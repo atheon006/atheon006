@@ -14,9 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=500&height=60&lines=SALUT%2C+MOI+C%27EST+ATHEON-DEV!;DEV+%26+PIXEL+WIZARD;GAME+ON+%F0%9F%91%BE" alt="Typing SVG" />
 </p>
 
-<!-- ===================================================== -->
-<!--  BANNIÈRE AVEC CADRE ASCII                          -->
-<!-- ===================================================== -->
 <pre align="center">
 +------------------------------------------------------------------+
 |                                                                  |
@@ -27,9 +24,6 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--  BIO - STYLE TERMINAL                                -->
-<!-- ===================================================== -->
 <pre>
 📟  SYSTEME    : Développeur Étudiant
 📍  LOCALISATION : GOMA
@@ -41,9 +35,6 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--  STACK TECHNIQUE (CORRIGÉE)                          -->
-<!-- ===================================================== -->
 ## 🧰 STACK TECHNIQUE
 
 | Langage | Écosystème / Outils |
@@ -56,9 +47,6 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--  BARRES DE PROGRESSION PIXEL                         -->
-<!-- ===================================================== -->
 ## 📊 NIVEAUX DE MAÎTRISE
 React.js (hooks, context, perf) [██████████████░░░░░] 85%
 Node.js / Express (API, JWT) [███████████░░░░░░░░░] 70%
@@ -67,36 +55,27 @@ PHP / Laravel [██████░░░░░░░░░░░░░░] 40%
 
 ---
 
-<!-- ===================================================== -->
-<!--  STATISTIQUES GITHUB - TOUS LES LIENS MARCHENT !     -->
-<!-- ===================================================== -->
-## 📈 STATS PIXEL
+## 📈 STATS PIXEL (Version renforcée)
 
 <p align="center">
-  <!-- Stats générales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=atheon006&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Stats" width="48%" />
+  <!-- 1. Statistiques générales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=atheon006&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41&v=1" alt="Stats GitHub" />
+  <br><br>
   
-  <!-- Streak (série en cours) - URL corrigée ! -->
-  <img src="https://streak-stats.demolab.com?user=atheon006&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=FFB000&fire=FFB000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="Streak" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41" alt="Top Langs" width="40%" />
-</p>
-
-<!-- ===================================================== -->
-<!--  TROPHÉES GITHUB                                     -->
-<!-- ===================================================== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atheon006&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophées" />
+  <!-- 2. Série en cours (Streak) -->
+  <img src="https://streak-stats.demolab.com?user=atheon006&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=FFB000&fire=FFB000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&v=1" alt="Streak GitHub" />
+  <br><br>
+  
+  <!-- 3. Langages les plus utilisés -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41&v=1" alt="Top Langs" />
+  <br><br>
+  
+  <!-- 4. Trophées GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=atheon006&theme=darkhub&no-frame=true&row=1&column=7&v=1" alt="Trophées GitHub" />
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!--  CONTACT                                             -->
-<!-- ===================================================== -->
 ## 📟 ME CONTACTER
 
 <p align="center">
@@ -106,16 +85,46 @@ PHP / Laravel [██████░░░░░░░░░░░░░░] 40%
   <a href="mailto:readykalonda38@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="#">
-    <img src="https://www.linkedin.com/in/ready-kalonda-a8665a428/?skipRedirect=true" alt="LinkedIn" />
+  <a href="
+---
+
+## 📈 STATS PIXEL (Version renforcée)
+
+<p align="center">
+  <!-- 1. Statistiques générales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=atheon006&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41&v=1" alt="Stats GitHub" />
+  <br><br>
+  
+  <!-- 2. Série en cours (Streak) -->
+  <img src="https://streak-stats.demolab.com?user=atheon006&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=FFB000&fire=FFB000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&v=1" alt="Streak GitHub" />
+  <br><br>
+  
+  <!-- 3. Langages les plus utilisés -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41&v=1" alt="Top Langs" />
+  <br><br>
+  
+  <!-- 4. Trophées GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=atheon006&theme=darkhub&no-frame=true&row=1&column=7&v=1" alt="Trophées GitHub" />
+</p>
+
+---
+
+## 📟 ME CONTACTER
+
+<p align="center">
+  <a href="https://x.com/KalondaReady">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:readykalonda38@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ready-kalonda-a8665a428/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!--  FOOTER ASCII ART                                     -->
-<!-- ===================================================== -->
 <pre align="center">
 +--------------------------------------------------+
 |  ╔═╗╦═╗╔═╗╔═╗╦ ╦╔═╗╔╦╗╦╔═╗╔╗╔╔═╗              |
@@ -123,4 +132,8 @@ PHP / Laravel [██████░░░░░░░░░░░░░░] 40%
 |  ╩ ╩╩╚═╚═╝╚═╝╩ ╩╚═╝╩ ╩╩╚═╝╝╚╝╚═╝              |
 +--------------------------------------------------+
   DERNIÈRE MISE À JOUR : AOÛT 2026
-</pre>
+</pre>">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
