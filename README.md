@@ -8,7 +8,7 @@
 <pre align="center">
 +------------------------------------------------------------------+
 |                                                                  |
-|  <img src="https://i.pinimg.com/originals/70/19/08/701908f6fd0b113b9b493ba689fd0e71.gif" width="500" alt="Coding GIF" />  |
+|  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="500" alt="Coding GIF" />  |
 |                                                                  |
 +------------------------------------------------------------------+
 </pre>
@@ -114,7 +114,7 @@ PHP / Laravel                     [██████░░░░░░░░░
   <br/><br/>
   
   <!-- Trophées -->
-  <img src="https://github-profile-trophy.vercel.app/?username=atheon006&theme=flat&no-frame=true&margin-w=15" width="80%" alt="Trophées GitHub" />
+ 
 </p>
 
 ---
