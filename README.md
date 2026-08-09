@@ -167,16 +167,16 @@ PHP / Laravel                     [██████░░░░░░░░░
 </h3>
 
 <p align="center">
-  <!-- Stats générales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=atheon006&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Stats GitHub" />
+  <!-- Stats générales (Serveur rapide) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=atheon006&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Stats GitHub" />
   <br/><br/>
   
   <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=atheon006&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=FFB000&fire=FFB000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="Streak GitHub" />
   <br/><br/>
   
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41" alt="Top Langs" />
+  <!-- Top Langs (Serveur rapide) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41" alt="Top Langs" />
   <br/><br/>
   
   <!-- Trophées -->
