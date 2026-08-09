@@ -6,11 +6,12 @@
 <!--  BANNIERE AVEC CADRE ASCII                                   -->
 <!-- ============================================================ -->
 <pre align="center">
-
-                                                                  
-  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="450" alt="Coding GIF" />  
-                                                                  
-
++------------------------------------------------------------------+
+|                                                                  |
+|  <img src="https://i.pinimg.com/originals/70/19/08/701908f6fd0b113b9b493ba689fd0e71.gif" width="500" alt="Coding GIF" />  |
+|                                                                  |
++------------------------------------------------------------------+
+</pre>
 
 <br/>
 
@@ -19,19 +20,19 @@
 <!-- ============================================================ -->
 <p align="center">
   <a href="https://github.com/atheon006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="38"/>
   </a>
   <a href="https://www.linkedin.com/in/ready-kalonda-a8665a428/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
   </a>
   <a href="https://x.com/KalondaReady" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="38"/>
   </a>
   <a href="mailto:readykalonda38@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
   </a>
   <a href="https://objetsperdus.online" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-003580?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/My%20Portfolio-003580?style=for-the-badge&logo=firefox&logoColor=white" height="38"/>
   </a>
 </p>
 
@@ -61,7 +62,7 @@
 ---
 
 <!-- ============================================================ -->
-<!--  TECH STACK - VERSION MODERNE                                -->
+<!--  TECH STACK - VERSION MODERNE & HD                           -->
 <!-- ============================================================ -->
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
@@ -69,73 +70,7 @@
 </h3>
 
 <p align="center">
-  <!-- Langages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <br/><br/>
-
-  <!-- Frontend -->
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <br/><br/>
-
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <br/><br/>
-
-  <!-- Base de données -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <br/><br/>
-
-  <!-- DevOps & Tools -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,py,php,ts,react,next,vue,tailwind,bootstrap,nodejs,nestjs,express,mongodb,mysql,firebase,docker,git,vercel&perline=6" alt="My Tech Stack" width="550" />
 </p>
 
 ---
@@ -166,20 +101,20 @@ PHP / Laravel                     [██████░░░░░░░░░
 </h3>
 
 <p align="center">
-  <!-- Stats générales (Serveur rapide) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=atheon006&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Stats GitHub" />
+  <!-- Stats générales -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=atheon006&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="450" alt="Stats GitHub" />
   <br/><br/>
   
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=atheon006&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=FFB000&fire=FFB000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="Streak GitHub" />
+  <img src="https://streak-stats.demolab.com?user=atheon006&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=FFB000&fire=FFB000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="450" alt="Streak GitHub" />
   <br/><br/>
   
-  <!-- Top Langs (Serveur rapide) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41" alt="Top Langs" />
+  <!-- Top Langs -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41" width="400" alt="Top Langs" />
   <br/><br/>
   
   <!-- Trophées -->
-
+  <img src="https://github-profile-trophy.vercel.app/?username=atheon006&theme=flat&no-frame=true&margin-w=15" width="80%" alt="Trophées GitHub" />
 </p>
 
 ---
