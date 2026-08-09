@@ -180,7 +180,7 @@ PHP / Laravel                     [██████░░░░░░░░░
   <br/><br/>
   
   <!-- Trophées -->
- <img src="https://github-profile-trophy.vercel.app/?username=atheon006&theme=flat&no-frame=true&margin-w=15" alt="Trophées GitHub" />
+
 </p>
 
 ---
