@@ -1,143 +1,74 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=ssSalut%2C+moi+c%27est+Atheon-Dev+%F0%9F%91%BE;Pixel+Wizard+%26+Dev;Game+On+%F0%9F%8E%AE" alt="Typing SVG" />
-</h2>
+<div align="center">
 
-<!-- ============================================================ -->
-<!--  BANNIERE AVEC CADRE ASCII                                   -->
-<!-- ============================================================ -->
-<pre align="center">
-+------------------------------------------------------------------+
-|                                                                  |
-|  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="500" alt="Coding GIF" />  |
-|                                                                  |
-+------------------------------------------------------------------+
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00FF41&height=200&section=header&text=Salut,%20moi%20c'est%20Atheon-Dev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<a href="https://objetsperdus.online"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%26+Node.js;Automation+Enthusiast;Goma%2C+RDC+%F0%9F%8D%B7" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- ============================================================ -->
-<!--  BADGES DE CONTACT / PORTFOLIO                               -->
-<!-- ============================================================ -->
-<p align="center">
-  <a href="https://github.com/atheon006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="38"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ready-kalonda-a8665a428/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
-  </a>
-  <a href="https://x.com/KalondaReady" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="38"/>
-  </a>
-  <a href="mailto:readykalonda38@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
-  </a>
-  <a href="https://objetsperdus.online" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-003580?style=for-the-badge&logo=firefox&logoColor=white" height="38"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://objetsperdus.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ready-kalonda-a8665a428/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:readykalonda38@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/atheon006)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KalondaReady)
 
-<!-- ============================================================ -->
-<!--  TEXTE DE SUIVI + INVITATION                                 -->
-<!-- ============================================================ -->
-<p align="center">
-  <a href="https://github.com/atheon006?tab=repositories" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?lines=Follow+to+get+New+Updates;Check+my+Popular+Repositories&font=Bold+Code&center=true&color=00FF41&pause=2000" alt="Typing SVG" />
-  </a>
-</p>
+</div>
 
 ---
 
-<!-- ============================================================ -->
-<!--  À PROPOS DE MOI - STYLE TERMINAL                            -->
-<!-- ============================================================ -->
-<pre>
-📟 SYSTEME      : Développeur Étudiant
-📍 LOCALISATION : GOMA, RDC
-🕹️ PROJET EN COURS : <strong>ARENA</strong>
-📚 APPRENTISSAGE : React.js (Niveau 85%)
-💬 DEMANDE-MOI  : Python, JavaScript, Docker
-💀 FUN FACT     : Je peux passer 3h sur un bug… pour une virgule qui manque.
-</pre>
+<img src="https://img.shields.io/badge/WHO AM I-%23222?style=for-the-badge&logo=readme&logoColor=white" />
+
+## About Me
+
+I'm **Ready Kalonda** -- known online as **Atheon-Dev** or **𝕷**. Student Developer based in Goma, DRC, passionate about building modern web apps, automation tools, and pixel-perfect UIs.
+
+Currently mastering React.js ecosystem, backend architectures with Node.js and NestJS, and containerization with Docker. When I'm not coding, I'm probably digging into logic puzzles, working on my project **ARENA**, or spending 3 hours debugging a missing comma.
+
+> Passionate about turning complex logic into smooth, pixel-perfect digital experiences.
 
 ---
 
-<!-- ============================================================ -->
-<!--  TECH STACK - VERSION MODERNE & HD                           -->
-<!-- ============================================================ -->
-<h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  Tech Stack
-</h3>
+<img src="https://img.shields.io/badge/TECHNOLOGIES %26 TOOLS-%23333?style=for-the-badge&logo=dependabot&logoColor=white" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,php,ts,react,next,vue,tailwind,bootstrap,nodejs,nestjs,express,mongodb,mysql,firebase,docker,git,vercel&perline=6" alt="My Tech Stack" width="550" />
-</p>
+<img src="https://img.shields.io/badge/Languages %26 Frameworks-%231e1e1e?style=flat-square&logo=stackshare&logoColor=white" />
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<!-- ============================================================ -->
-<!--  BARRES DE PROGRESSION PIXEL                                 -->
-<!-- ============================================================ -->
-<h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  Niveaux de maîtrise
-</h3>
+<img src="https://img.shields.io/badge/Databases %26 Cloud-%231e1e1e?style=flat-square&logo=databricks&logoColor=white" />
 
-<pre align="center">
-React.js (hooks, context, perf)   [██████████████░░░░░]  85%
-Node.js / Express (API, JWT)      [███████████░░░░░░░░░]  70%
-Docker (compose, orchestration)   [████████░░░░░░░░░░░░]  55%
-PHP / Laravel                     [██████░░░░░░░░░░░░░░]  40%
-</pre>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<img src="https://img.shields.io/badge/DevOps %26 Tools-%231e1e1e?style=flat-square&logo=git&logoColor=white" />
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-<!-- ============================================================ -->
-<!--  STATISTIQUES GITHUB                                         -->
-<!-- ============================================================ -->
-<h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  GitHub Stats
-</h3>
+<img src="https://img.shields.io/badge/BEYOND THE CODE-%23222?style=for-the-badge&logo=readme&logoColor=white" />
 
-<p align="center">
-  <!-- Stats générales -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=atheon006&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="450" alt="Stats GitHub" />
-  <br/><br/>
-  
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=atheon006&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=FFB000&fire=FFB000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="450" alt="Streak GitHub" />
-  <br/><br/>
-  
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41" width="400" alt="Top Langs" />
-  <br/><br/>
-  
-  <!-- Trophées -->
- 
-</p>
+🎮 Gaming &nbsp;&middot;&nbsp; 👾 Pixel Art &nbsp;&middot;&nbsp; 🕵️‍♂️ Investigation & Puzzles &nbsp;&middot;&nbsp; ☕ Coffee &nbsp;&middot;&nbsp; 🎵 Synthwave / Cyberpunk
 
 ---
 
-<!-- ============================================================ -->
-<!--  FOOTER                                                      -->
-<!-- ============================================================ -->
-<pre align="center">
-<p align="center">
-  <svg width="200" height="200" viewBox="0 0 100 120" fill="#00FF41" xmlns="http://www.w3.org/2000/svg">
-    <!-- Tracé calligraphique style Old English / Death Note -->
-    <path d="M 25,15 C 20,20 20,28 26,30 C 32,32 40,25 38,18 C 36,12 28,10 25,15 Z" />
-    <path d="M 30,25 C 25,45 28,85 24,100 C 35,98 55,98 75,95 C 80,85 75,70 70,68 C 65,66 65,75 68,85 C 55,87 40,88 32,88 C 35,70 34,40 36,25 Z" />
-    <path d="M 15,98 C 25,96 30,99 28,105 C 25,110 15,108 15,98 Z" />
-  </svg>
-</p>
+<img src="https://img.shields.io/badge/GITHUB STATS-%23222?style=for-the-badge&logo=github&logoColor=white" />
 
-<h3 align="center" style="font-family: monospace; color: #00FF41;">
-  𝕷 :: ATHEON-DEV
-</h3>
-  DERNIERE MISE A JOUR : AOUT 2026
-</pre>
+<div align="center">
 
-<p align="center">
-  ⭐️ <i>Merci d'avoir visité mon profil ! N'hésite pas à jeter un œil à mes dépôts.</i>
-</p>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=atheon006&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41" width="49%"/>
+
+</div>
+
+---
+
+<img src="https://img.shields.io/badge/STREAK-%23222?style=for-the-badge&logo=github&logoColor=white" />
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=atheon006&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=FFB000&fire=FFB000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" width="70%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0a0a0f&height=120&section=footer" width="100%"/>
