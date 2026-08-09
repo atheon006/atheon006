@@ -8,7 +8,7 @@
 <pre align="center">
 +------------------------------------------------------------------+
 |                                                                  |
-|  <img src="https://i.pinimg.com/originals/70/19/08/701908f6fd0b113b9b493ba689fd0e71.gif" width="450" alt="Coding GIF" />  |
+|  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="450" alt="Coding GIF" />  |
 |                                                                  |
 +------------------------------------------------------------------+
 </pre>
