@@ -6,12 +6,11 @@
 <!--  BANNIERE AVEC CADRE ASCII                                   -->
 <!-- ============================================================ -->
 <pre align="center">
-+------------------------------------------------------------------+
-|                                                                  |
-|  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="450" alt="Coding GIF" />  |
-|                                                                  |
-+------------------------------------------------------------------+
-</pre>
+
+                                                                  
+  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="450" alt="Coding GIF" />  
+                                                                  
+
 
 <br/>
 
