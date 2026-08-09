@@ -3,7 +3,7 @@
 </h2>
 
 <!-- ============================================================ -->
-<!--  BANNIERE AVEC CADRE ASCII                                    -->
+<!--  BANNIERE AVEC CADRE ASCII                                   -->
 <!-- ============================================================ -->
 <pre align="center">
 +------------------------------------------------------------------+
@@ -16,28 +16,28 @@
 <br/>
 
 <!-- ============================================================ -->
-<!--  BADGES DE CONTACT / PORTFOLIO                                -->
+<!--  BADGES DE CONTACT / PORTFOLIO                               -->
 <!-- ============================================================ -->
 <p align="center">
   <a href="https://github.com/atheon006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="height:34px; object-fit:contain;"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ready-kalonda-a8665a428/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height:34px; object-fit:contain;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/KalondaReady" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="height:34px; object-fit:contain;"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:readykalonda38@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:34px; object-fit:contain;"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-003580?style=for-the-badge&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
+  <a href="https://objetsperdus.online" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-003580?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 <!-- ============================================================ -->
-<!--  TEXTE DE SUIVI + INVITATION                                  -->
+<!--  TEXTE DE SUIVI + INVITATION                                 -->
 <!-- ============================================================ -->
 <p align="center">
   <a href="https://github.com/atheon006?tab=repositories" target="_blank">
@@ -48,25 +48,25 @@
 ---
 
 <!-- ============================================================ -->
-<!--  À PROPOS DE MOI - STYLE TERMINAL                             -->
+<!--  À PROPOS DE MOI - STYLE TERMINAL                            -->
 <!-- ============================================================ -->
 <pre>
-📟  SYSTEME      : Développeur Étudiant
-📍  LOCALISATION : GOMA, RDC
-🕹️  PROJET EN COURS : <strong>ARENA</strong>
-📚  APPRENTISSAGE : React.js (Niveau 85%)
-💬  DEMANDE-MOI  : Python, JavaScript, Docker
-💀  FUN FACT     : Je peux passer 3h sur un bug… pour une virgule qui manque.
+📟 SYSTEME      : Développeur Étudiant
+📍 LOCALISATION : GOMA, RDC
+🕹️ PROJET EN COURS : <strong>ARENA</strong>
+📚 APPRENTISSAGE : React.js (Niveau 85%)
+💬 DEMANDE-MOI  : Python, JavaScript, Docker
+💀 FUN FACT     : Je peux passer 3h sur un bug… pour une virgule qui manque.
 </pre>
 
 ---
 
 <!-- ============================================================ -->
-<!--  TECH STACK - VERSION MODERNE AVEC BADGES                     -->
+<!--  TECH STACK - VERSION MODERNE                                -->
 <!-- ============================================================ -->
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  Tech Stack :
+  Tech Stack
 </h3>
 
 <p align="center">
@@ -83,14 +83,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-  <br/>
+  <br/><br/>
 
   <!-- Frontend -->
   <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
@@ -99,25 +99,25 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
-  <br/>
+  <br/><br/>
 
   <!-- Backend -->
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   </a>
-  <br/>
+  <br/><br/>
 
   <!-- Base de données -->
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
@@ -125,7 +125,7 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-  <br/>
+  <br/><br/>
 
   <!-- DevOps & Tools -->
   <a href="https://www.docker.com/" target="_blank">
@@ -142,11 +142,11 @@
 ---
 
 <!-- ============================================================ -->
-<!--  BARRES DE PROGRESSION PIXEL                                  -->
+<!--  BARRES DE PROGRESSION PIXEL                                 -->
 <!-- ============================================================ -->
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  Niveaux de maîtrise :
+  Niveaux de maîtrise
 </h3>
 
 <pre align="center">
@@ -159,53 +159,28 @@ PHP / Laravel                     [██████░░░░░░░░░
 ---
 
 <!-- ============================================================ -->
-<!--  STATISTIQUES GITHUB                                          -->
+<!--  STATISTIQUES GITHUB                                         -->
 <!-- ============================================================ -->
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  GitHub Stats :
+  GitHub Stats
 </h3>
 
 <p align="center">
   <!-- Stats générales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=atheon006&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41&v=1" alt="Stats GitHub" />
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=atheon006&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Stats GitHub" />
+  <br/><br/>
   
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=atheon006&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=FFB000&fire=FFB000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&v=1" alt="Streak GitHub" />
-  <br><br>
+  <img src="https://streak-stats.demolab.com?user=atheon006&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=FFB000&fire=FFB000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="Streak GitHub" />
+  <br/><br/>
   
   <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41&v=1" alt="Top Langs" />
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atheon006&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41" alt="Top Langs" />
+  <br/><br/>
   
   <!-- Trophées -->
-  <img src="https://github-profile-trophy.vercel.app/?username=atheon006&theme=darkhub&no-frame=true&row=1&column=7&v=1" alt="Trophées GitHub" />
-</p>
-
----
-
-<!-- ============================================================ -->
-<!--  RÉSEAUX SOCIAUX                                             -->
-<!-- ============================================================ -->
-<h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  Me retrouver ici :
-</h3>
-
-<p align="center">
-  <a href="https://x.com/KalondaReady" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3X0LHh-DqOD8MPrmr8K0XtCnIH6ftjqFQw&s" width="40" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ready-kalonda-a8665a428/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65EIAfPoKybFVtUZVzBQeJw-oKlkOsFKO0Q&s" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/atheon006" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" alt="GitHub"/>
-  </a>
-  <a href="mailto:readykalonda38@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" alt="Email"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=atheon006&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophées GitHub" />
 </p>
 
 ---
@@ -215,11 +190,13 @@ PHP / Laravel                     [██████░░░░░░░░░
 <!-- ============================================================ -->
 <pre align="center">
 +--------------------------------------------------+
-|  ╔═╗╦═╗╔═╗╔═╗╦ ╦╔═╗╔╦╗╦╔═╗╔╗╔╔═╗              |
-|  ╠═╣╠╦╝║ ║║  ╠═╣║╣ ║║║║║ ║║║║╚═╗              |
-|  ╩ ╩╩╚═╚═╝╚═╝╩ ╩╚═╝╩ ╩╩╚═╝╝╚╝╚═╝              |
+|  ╔═╗╦═╗╔═╗╔═╗╦ ╦╔═╗╔╦╗╦╔═╗╔╗╔╔═╗                 |
+|  ╠═╣╠╦╝║ ║║  ╠═╣║╣ ║║║║║ ║║║║╚═╗                 |
+|  ╩ ╩╩╚═╚═╝╚═╝╩ ╩╚═╝╩ ╩╩╚═╝╝╚╝╚═╝                 |
 +--------------------------------------------------+
   DERNIERE MISE A JOUR : AOUT 2026
 </pre>
 
-⭐️ *Merci d'avoir visité mon profil ! N'oublie pas de checker mes projets.*
+<p align="center">
+  ⭐️ <i>Merci d'avoir visité mon profil ! N'hésite pas à jeter un œil à mes dépôts.</i>
+</p>
