@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=sSalut%2C+moi+c%27est+Atheon-Dev+%F0%9F%91%BE;Pixel+Wizard+%26+Dev;Game+On+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=ssSalut%2C+moi+c%27est+Atheon-Dev+%F0%9F%91%BE;Pixel+Wizard+%26+Dev;Game+On+%F0%9F%8E%AE" alt="Typing SVG" />
 </h2>
 
 <!-- ============================================================ -->
