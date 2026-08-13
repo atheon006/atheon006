@@ -1,3 +1,19 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:00FF41&height=200&section=header&text=Salut,%20moi%20c'est%20Atheon-Dev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<a href="https://objetsperdus.online"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%26+Node.js;Automation+Enthusiast;Goma%2C+RDC+%F0%9F%8D%B7" alt="Typing SVG" /></a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolioready.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ready-kalonda-a8665a428/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:readykalonda38@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/atheon006)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KalondaReady)
+
+</div>
+
 <a href="https://chiragchrg.netlify.app/" target="_blank" title="My Portfolio" alt="My Portfolio">
  <img src="./Portfolio_Crop_Img.webp" width="100%" height="auto" />
 </a>
