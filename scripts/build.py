@@ -551,11 +551,11 @@ def fmt(n):
 def activity(data, t, now):
     cc = data['contributionsCollection']
     all_weeks = cc['contributionCalendar']['weeks']
-    created = dt.date.fromisoformat(data['createdAt'][:10])
-    first_week = next((i for i, w in enumerate(all_weeks)
-                       if dt.date.fromisoformat(w['contributionDays'][-1]['date']) >= created), 0)
-    since_creation = first_week > 0 and len(all_weeks) - first_week >= 8
-    weeks = all_weeks[first_week:] if since_creation else all_weeks
+    # La courbe commence à la première semaine active (les commits peuvent précéder la création du compte).
+    first_week = next((i for i, w in enumerate(all_weeks) if any(d['contributionCount'] for d in w['contributionDays'])), 0)
+    since_first = first_week > 0 and len(all_weeks) - first_week >= 8
+    weeks = all_weeks[first_week:] if since_first else all_weeks
+    first_day = dt.date.fromisoformat(weeks[0]['contributionDays'][0]['date'])
     days = [d for w in all_weeks for d in w['contributionDays']]
     current, longest = streaks(days)
     shares = language_shares(data['repositories']['nodes'])
@@ -570,7 +570,7 @@ def activity(data, t, now):
                    '.area{animation:fade 1.4s ease both .6s}')
 
     # En-tête
-    period = f'DEPUIS {MONTHS_LONG[created.month - 1].upper()} {created.year}' if since_creation else '12 DERNIERS MOIS'
+    period = f'DEPUIS {MONTHS_LONG[first_day.month - 1].upper()} {first_day.year}' if since_first else '12 DERNIERS MOIS'
     head = [svg.text(pad, 58, 'Activité sur GitHub', 20, 'sans', 600, t['fg'], tracking=-0.01),
             svg.text(W - pad, 57, period, 11.5, 'mono', 500, t['dim'], 'end', 0.14)]
 
